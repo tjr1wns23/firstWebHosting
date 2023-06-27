@@ -1,0 +1,3 @@
+$("#test").click(() => {
+  alert("hello!")
+})
